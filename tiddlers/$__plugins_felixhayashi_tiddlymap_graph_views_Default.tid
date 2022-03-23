@@ -1,0 +1,5 @@
+config.central-topic: 5d527ad4-5a30-4a3f-92b7-54160ce6bfde
+config.physics_mode: false
+isview: true
+title: $:/plugins/felixhayashi/tiddlymap/graph/views/Default
+type: text/vnd.tiddlywiki
